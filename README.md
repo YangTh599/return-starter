@@ -12,7 +12,7 @@ Objective: To learn how to define and use a `return` statement with a Python fun
 - Start with the first project, which is easier, and end with the last project, which is more challenging
 - Use comments to label each project in your script
 
-#### Destination Europewhen you call your function
+#### Destination Europe
 
 - Write a function `describe_vacation()` that takes three parameters:
   - destination
