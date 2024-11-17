@@ -42,3 +42,9 @@ At the university, students eventually must choose a **major**, i.e., the subjec
   - Example 1: **Carli** attends the **University of Georgia** and is majoring in **Computer Science**.
   - Example 2: **Mark** attends the **University of Hawaii** and is majoring in **Marine Biology**.
 - Call the function twice, the first time with THREE arguments, the second time with only the arguments for the student's first name and university
+
+#### Exit Ticket
+
+Answer the question in [this Google Form](https://forms.gle/ihfY6z5KiDcd8a3e8).
+
+Click SUBMIT to submit your answer.
