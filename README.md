@@ -3,6 +3,7 @@
 ### Background Information
 
 - Watch this brief video about [return statements](https://youtu.be/ZnBQfF5JFDM?feature=shared) in Python
+- Read the markdown (.md) file that explains why some functions return the value `None` and others return a specific value
 
 ### Coding
 
