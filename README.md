@@ -40,4 +40,4 @@ At the university, students eventually must choose a **major**, i.e., the subjec
 - Assign a default value of **Sports Medicine** to the parameter `major`
 - Return an f-string that includes the student's first name, university, and his/her major
 - Example 1: **Carli** attends the **University of Chicago** and is majoring in **Computer Science**.
-- Example 2: **Mark** attends the **University of Florida** and is majoring in **Marine Biology**.
+- Example 2: **Mark** attends the **University of Hawaii** and is majoring in **Marine Biology**.
