@@ -12,7 +12,7 @@ Objective: To learn how to define and use a `return` statement with a Python fun
 - Start with the first project, which is easier, and end with the last project, which is more challenging
 - Use comments to label each project in your script
 
-#### Destination Europe
+#### Destination Europewhen you call your function
 
 - Write a function `describe_vacation()` that takes three parameters:
   - destination
@@ -24,7 +24,7 @@ Objective: To learn how to define and use a `return` statement with a Python fun
   - the season
   - your activity (what you will do while on vacation)
   - Example: I am going to **Rome** for a **summer** vacation.  I will **explore ancient ruins** there.
-  - Use only two arguments -- one for your destination, the other for your activity
+  - Use only two arguments when you call your function -- one for your destination, the other for your activity
 - **Second function call**: Return to a variable named `description2` an f-string that includes the same placeholders you used in your first function call
-  - Use THREE arguments -- one for your destination, another for your activity, a third for the season (spring or fall, for example)
+  - Use THREE arguments when you call your function -- one for your destination, another for your activity, a third for the season (spring or fall, for example)
   - Example: I am going to **Paris** for a **fall** vacation.  I will **enjoy sampling French pastries** there.
