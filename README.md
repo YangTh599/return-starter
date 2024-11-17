@@ -12,7 +12,7 @@ Objective: To learn how to define and use a `return` statement with a Python fun
 - Start with the first project, which is easier, and end with the last project, which is more challenging
 - Use comments to label each project in your script
 
-#### Destination Europe
+#### Project 1: Destination Europe
 
 - Write a function `describe_vacation()` that takes three parameters:
   - destination
@@ -28,3 +28,15 @@ Objective: To learn how to define and use a `return` statement with a Python fun
 - **Second function call**: Return to a variable named `description2` an f-string that includes the same placeholders you used in your first function call
   - Use THREE arguments when you call your function -- one for your destination, another for your activity, a third for the season (spring or fall, for example)
   - Example: I am going to **Paris** for a **fall** vacation.  I will **enjoy sampling French pastries** there.
+ 
+#### Project 2: Student Major
+
+At the university, students eventually must choose a **major**, i.e., the subject or field they want to earn a degree in.  Some students, for example, choose to major in English, while those interested in science may decide to major in Biology or Chemistry.
+
+- Write a function `show_major()` that takes three parameters:
+  - `first_name`
+  - `university`
+  - `major`
+- Assign a default value of **Sports Medicine** to the parameter `major`
+- Return an f-string that includes the student's first name, university, and his/her major
+- Example: **Carli** attends **MIT** and is majoring in **Computer Science**.
